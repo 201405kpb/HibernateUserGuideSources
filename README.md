@@ -1,0 +1,2 @@
+# HibernateUserGuideSources
+Hibernate用户指南源码
