@@ -26,6 +26,7 @@
         <module name="2CustomPhysicalNamingStrategy" />
         <module name="3BasicDeclaredExplicitly" />
         <module name="5ExplicitColumnNaming" />
+        <module name="6UsingHibernateType" />
         <module name="BasicBeingImplicitlyImplied" />
       </profile>
     </annotationProcessing>
@@ -35,6 +36,7 @@
       <module name="3BasicDeclaredExplicitly" target="1.5" />
       <module name="4BasicBeingImplicitlyImplied" target="1.5" />
       <module name="5ExplicitColumnNaming" target="1.5" />
+      <module name="6UsingHibernateType" target="1.5" />
       <module name="BasicBeingImplicitlyImplied" target="1.5" />
       <module name="HibernateUserGuide" target="1.5" />
     </bytecodeTargetLevel>

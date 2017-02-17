@@ -64,6 +64,7 @@
         <module>2CustomPhysicalNamingStrategy</module>
         <module>3BasicDeclaredExplicitly</module>
         <module>5ExplicitColumnNaming</module>
+        <module>6UsingHibernateType</module>
     </modules>
 
 </project>

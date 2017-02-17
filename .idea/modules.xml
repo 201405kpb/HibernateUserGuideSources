@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/2CustomPhysicalNamingStrategy/2CustomPhysicalNamingStrategy.iml" filepath="$PROJECT_DIR$/2CustomPhysicalNamingStrategy/2CustomPhysicalNamingStrategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/3BasicDeclaredExplicitly/3BasicDeclaredExplicitly.iml" filepath="$PROJECT_DIR$/3BasicDeclaredExplicitly/3BasicDeclaredExplicitly.iml" />
       <module fileurl="file://$PROJECT_DIR$/5ExplicitColumnNaming/5ExplicitColumnNaming.iml" filepath="$PROJECT_DIR$/5ExplicitColumnNaming/5ExplicitColumnNaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6UsingHibernateType/6UsingHibernateType.iml" filepath="$PROJECT_DIR$/6UsingHibernateType/6UsingHibernateType.iml" />
       <module fileurl="file://$PROJECT_DIR$/HibernateUserGuide.iml" filepath="$PROJECT_DIR$/HibernateUserGuide.iml" />
     </modules>
   </component>
