@@ -63,7 +63,7 @@
         <module>1SimpleTableAndDomainModel</module>
         <module>2CustomPhysicalNamingStrategy</module>
         <module>3BasicDeclaredExplicitly</module>
+        <module>5ExplicitColumnNaming</module>
     </modules>
-
 
 </project>
