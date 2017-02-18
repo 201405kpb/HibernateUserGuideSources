@@ -67,6 +67,7 @@
         <module>6UsingHibernateType</module>
         <module>7ImplementingBasicType</module>
         <module>8ImplementingUserType</module>
+        <module>9MappingEnums</module>
     </modules>
 
 </project>

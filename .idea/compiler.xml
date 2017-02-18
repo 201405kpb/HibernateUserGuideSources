@@ -29,6 +29,7 @@
         <module name="6UsingHibernateType" />
         <module name="7ImplementingBasicType" />
         <module name="8ImplementingUserType" />
+        <module name="9MappingEnums" />
         <module name="BasicBeingImplicitlyImplied" />
       </profile>
     </annotationProcessing>
@@ -41,6 +42,7 @@
       <module name="6UsingHibernateType" target="1.5" />
       <module name="7ImplementingBasicType" target="1.5" />
       <module name="8ImplementingUserType" target="1.5" />
+      <module name="9MappingEnums" target="1.5" />
       <module name="BasicBeingImplicitlyImplied" target="1.5" />
       <module name="HibernateUserGuide" target="1.5" />
     </bytecodeTargetLevel>
