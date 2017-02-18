@@ -71,6 +71,7 @@
         <module>10AttributeConverter</module>
         <module>11EnumsCustomType</module>
         <module>12MappingLOBs</module>
+        <module>13MappingNationalizedCharacterData</module>
     </modules>
 
 </project>
