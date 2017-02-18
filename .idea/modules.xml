@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/10AttributeConverter/10AttributeConverter.iml" filepath="$PROJECT_DIR$/10AttributeConverter/10AttributeConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11EnumsCustomType/11EnumsCustomType.iml" filepath="$PROJECT_DIR$/11EnumsCustomType/11EnumsCustomType.iml" />
       <module fileurl="file://$PROJECT_DIR$/1SimpleTableAndDomainModel/1SimpleTableAndDomainModel.iml" filepath="$PROJECT_DIR$/1SimpleTableAndDomainModel/1SimpleTableAndDomainModel.iml" />
       <module fileurl="file://$PROJECT_DIR$/2CustomPhysicalNamingStrategy/2CustomPhysicalNamingStrategy.iml" filepath="$PROJECT_DIR$/2CustomPhysicalNamingStrategy/2CustomPhysicalNamingStrategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/3BasicDeclaredExplicitly/3BasicDeclaredExplicitly.iml" filepath="$PROJECT_DIR$/3BasicDeclaredExplicitly/3BasicDeclaredExplicitly.iml" />
