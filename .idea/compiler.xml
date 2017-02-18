@@ -22,6 +22,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="10AttributeConverter" />
         <module name="1SimpleTableAndDomainModel" />
         <module name="2CustomPhysicalNamingStrategy" />
         <module name="3BasicDeclaredExplicitly" />
@@ -34,6 +35,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="10AttributeConverter" target="1.5" />
       <module name="1SimpleTableAndDomainModel" target="1.5" />
       <module name="2CustomPhysicalNamingStrategy" target="1.5" />
       <module name="3BasicDeclaredExplicitly" target="1.5" />

@@ -68,6 +68,7 @@
         <module>7ImplementingBasicType</module>
         <module>8ImplementingUserType</module>
         <module>9MappingEnums</module>
+        <module>10AttributeConverter</module>
     </modules>
 
 </project>
