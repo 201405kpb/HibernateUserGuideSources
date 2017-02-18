@@ -27,6 +27,7 @@
         <module name="3BasicDeclaredExplicitly" />
         <module name="5ExplicitColumnNaming" />
         <module name="6UsingHibernateType" />
+        <module name="7ImplementingBasicType" />
         <module name="BasicBeingImplicitlyImplied" />
       </profile>
     </annotationProcessing>
@@ -37,6 +38,7 @@
       <module name="4BasicBeingImplicitlyImplied" target="1.5" />
       <module name="5ExplicitColumnNaming" target="1.5" />
       <module name="6UsingHibernateType" target="1.5" />
+      <module name="7ImplementingBasicType" target="1.5" />
       <module name="BasicBeingImplicitlyImplied" target="1.5" />
       <module name="HibernateUserGuide" target="1.5" />
     </bytecodeTargetLevel>
