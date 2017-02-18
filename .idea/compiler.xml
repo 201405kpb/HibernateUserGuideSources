@@ -24,6 +24,7 @@
         <processorPath useClasspath="true" />
         <module name="10AttributeConverter" />
         <module name="11EnumsCustomType" />
+        <module name="12MappingLOBs" />
         <module name="1SimpleTableAndDomainModel" />
         <module name="2CustomPhysicalNamingStrategy" />
         <module name="3BasicDeclaredExplicitly" />
@@ -35,19 +36,18 @@
         <module name="BasicBeingImplicitlyImplied" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8">
       <module name="10AttributeConverter" target="1.5" />
       <module name="11EnumsCustomType" target="1.5" />
+      <module name="12MappingLOBs" target="1.8" />
       <module name="1SimpleTableAndDomainModel" target="1.5" />
       <module name="2CustomPhysicalNamingStrategy" target="1.5" />
       <module name="3BasicDeclaredExplicitly" target="1.5" />
-      <module name="4BasicBeingImplicitlyImplied" target="1.5" />
       <module name="5ExplicitColumnNaming" target="1.5" />
       <module name="6UsingHibernateType" target="1.5" />
       <module name="7ImplementingBasicType" target="1.5" />
       <module name="8ImplementingUserType" target="1.5" />
       <module name="9MappingEnums" target="1.5" />
-      <module name="BasicBeingImplicitlyImplied" target="1.5" />
       <module name="HibernateUserGuide" target="1.5" />
     </bytecodeTargetLevel>
   </component>

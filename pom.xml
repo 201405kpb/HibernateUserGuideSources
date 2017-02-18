@@ -70,6 +70,7 @@
         <module>9MappingEnums</module>
         <module>10AttributeConverter</module>
         <module>11EnumsCustomType</module>
+        <module>12MappingLOBs</module>
     </modules>
 
 </project>

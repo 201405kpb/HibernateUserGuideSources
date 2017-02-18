@@ -4,6 +4,7 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/10AttributeConverter" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/11EnumsCustomType" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12MappingLOBs" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/1SimpleTableAndDomainModel" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/2CustomPhysicalNamingStrategy" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/3BasicDeclaredExplicitly" charset="UTF-8" />

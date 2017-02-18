@@ -46,7 +46,7 @@ public class HibernateTest {
     }
 
     @Test
-    public void AttributeConverterTest() {
+    public void EnumsCustomTypeTest() {
         Person person = new Person();
         person.setId(1L);
         person.setName("测试");
