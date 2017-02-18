@@ -66,6 +66,7 @@
         <module>5ExplicitColumnNaming</module>
         <module>6UsingHibernateType</module>
         <module>7ImplementingBasicType</module>
+        <module>8ImplementingUserType</module>
     </modules>
 
 </project>

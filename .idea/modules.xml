@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/5ExplicitColumnNaming/5ExplicitColumnNaming.iml" filepath="$PROJECT_DIR$/5ExplicitColumnNaming/5ExplicitColumnNaming.iml" />
       <module fileurl="file://$PROJECT_DIR$/6UsingHibernateType/6UsingHibernateType.iml" filepath="$PROJECT_DIR$/6UsingHibernateType/6UsingHibernateType.iml" />
       <module fileurl="file://$PROJECT_DIR$/7ImplementingBasicType/7ImplementingBasicType.iml" filepath="$PROJECT_DIR$/7ImplementingBasicType/7ImplementingBasicType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8ImplementingUserType/8ImplementingUserType.iml" filepath="$PROJECT_DIR$/8ImplementingUserType/8ImplementingUserType.iml" />
       <module fileurl="file://$PROJECT_DIR$/HibernateUserGuide.iml" filepath="$PROJECT_DIR$/HibernateUserGuide.iml" />
     </modules>
   </component>
